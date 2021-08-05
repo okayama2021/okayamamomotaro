@@ -3,6 +3,6 @@
 "ticker":"OKYM",
 "discordId":"861486544820109313",
 "pool-list":"true",
-"poolMetaData":"https://github.com/okayama2021/okayamamomotaro/blob/cadf08d6c5aa1db9ddd01268c2dc4d3a74eca6c2/poolMetaData.json",
-"validation":"https://github.com/okayama2021/okayamamomotaro/blob/cadf08d6c5aa1db9ddd01268c2dc4d3a74eca6c2/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/okayama2021/okayamamomotaro/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/okayama2021/okayamamomotaro/main/sjg-validation.json"
 }
